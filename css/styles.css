@@ -1,0 +1,85 @@
+.si{
+  padding:0.5% 1.25%;
+  background-color: #ff449f;
+  color:#fff;
+  font-weight: 2rem;
+}
+#title {
+  padding:1% 0.5%;
+  background-color: #fdfaf6;
+}
+.r{
+  padding:5%;
+}
+.keys{
+  text-align: center;
+  width:75%;
+  padding: 2% 5% 4% 3%;
+}
+.nb{
+  font-family: "pacifico";
+  font-size: 1.5rem;
+}
+#t{
+  padding:5% 7% 7% 3%;
+  background-color: #F9F8FD;
+}
+h1{
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+.txt{
+
+  text-align: left;
+}
+#t .si{
+  padding:1.7% 3.3%;
+  margin-top: 3%;
+}
+.icon{
+  margin:5px;
+}
+#tn .nb{
+  color:pink;
+}
+#tn{
+
+}
+.in{
+  padding-left: 1.25%;
+}
+#footer{
+    padding:2% 3%
+  color:darkgrey;
+}
+.l{
+  text-align:right;
+}
+.inp{
+  text-align: right;
+}
+@media (max-width:900px;)
+{
+  .foot{
+background-color: #808080;
+    text-align: center;
+  }
+}
+img{
+  width:95%;
+  border-radius: 7%;
+}
+.con{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#design{
+  margin-left: 4%;
+  margin-right: 3%;
+}
+#design{
+  background-color: white;
+}
+.r{
+  background-color: #D3D3D3;
+}
